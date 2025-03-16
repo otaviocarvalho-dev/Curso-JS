@@ -1,1 +1,1 @@
-Programas das aulas de JavaScript, do Curso em Vídeo.
+Programas das aulas do curso de JavaScript, do Curso em Vídeo.
