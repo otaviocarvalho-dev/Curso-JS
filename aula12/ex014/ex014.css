@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font: normal 15pt Arial;
+    background-color: rgb(36, 113, 255);
+}
+
+header {
+    text-align: center;
+    color: #fff;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 7px rgba(70, 70, 70, 0.418);
+    background: #fff;
+}
+
+div#msg {
+    padding: 10px;
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+div#foto img {
+    margin: 15px;
+    border-radius: 50%;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    color: #fff
+}
+
+footer p {
+    font-size: 1rem;
+}
